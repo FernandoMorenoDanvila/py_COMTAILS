@@ -1,7 +1,7 @@
 # COMTAILS - COMetary dust TAIL Simulator
 
 COMTAILS is a comprehensive Python implementation of a comet dust tail simulation program. It improves upon the original FORTRAN 77 code developed by Fernando Moreno (IAA-CSIC) with a cleaner object-oriented design, enhanced numerical stability, and improved visualization capabilities. The porting of the FORTRAN serial version to this parallel Python version was performed by Rafael Morales and Nicolás Robles (IAA-CSIC).
-The original reposoritory with FORTRAN 77 version is: https://github.com/FernandoMorenoDanvila/COMTAILS/tree/FORTRAN_SERIAL  Please also note the parallel version of the FORTRAN 77 version: https://github.com/FernandoMorenoDanvila/COMTAILS/tree/FORTRAN_PARALLEL.
+The original reposoritory with FORTRAN versions is: https://github.com/FernandoMorenoDanvila/COMTAILS/tree/FORTRAN_SERIAL (FORTRAN serial)  and https://github.com/FernandoMorenoDanvila/COMTAILS/tree/FORTRAN_PARALLEL (FORTRAN MPI parallel version).
 
 ## Description
 
