@@ -112,13 +112,14 @@ and include in your reference list:
 
 ``Moreno, F. (2025). COMetary dust TAIL Simulator (COMTAILS): A computer code to generate comet dust tail brightness images
 Astronomy and Astrophysics, Volume:695(2025), Article:A263.``
-```
+
 
 ## Acknowledgments
 
 If you use this code in your research, please write in the acknowledgements of your papert:
 
-``The model results are based on a python implementation, performed by Rafael Morales and Nicolás Robles of the Instituto de Astrofísica de Andalucía, from the original FORTRAN serial code written by Fernando Moreno (Moreno, 2025)``
+``The model results are based on a python implementation, performed by Rafael Morales and Nicolás Robles of
+the Instituto de Astrofísica de Andalucía, from the original FORTRAN serial code written by Fernando Moreno (Moreno, 2025)``
 
 and give also acknowledgements to:
 
